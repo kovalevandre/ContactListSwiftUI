@@ -10,7 +10,6 @@ import SwiftUI
 struct DetailedContactView: View {
     let persons: [Person]
     
-    
     var body: some View {
         NavigationView {
             VStack {
